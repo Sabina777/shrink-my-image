@@ -1,0 +1,24 @@
+{
+  "name": "shrink-my-image",
+  "version": "1.0.0",
+  "description": "shrink-my-image is a cross-platform desktop app built with Electron.js for easily resizing and optimizing images.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabina777/shrink-my-image.git"
+  },
+  "author": "Sabina Prajapati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sabina777/shrink-my-image/issues"
+  },
+  "homepage": "https://github.com/Sabina777/shrink-my-image#readme",
+  "dependencies": {
+    "electron": "^30.0.8",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
